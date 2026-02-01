@@ -1,5 +1,5 @@
 //TODO: 添加基础界面
-# IMAGE:menu.jpg
+# IMAGE:menu.png
 + [开始]->start
 + [关于]->about
 + [作者]->author
