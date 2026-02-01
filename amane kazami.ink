@@ -1,3 +1,23 @@
+//TODO: 添加基础界面
+# IMAGE:menu.jpg
++ [开始]->start
++ [关于]->about
++ [作者]->author
+
+===about===
+111
+->main
+
+===author===
+sadsa
+->main
+
+===main===
++ [开始]->start
++ [关于]->about
++ [作者]->author
+
+===start===
 *[\【Chapter1 - Normal or not normal life\】]->Chapter1
 
 ===Chapter1===
@@ -73,8 +93,8 @@ Chapter1 - Normal or not normal life
 
 「本市发生一起凶杀案....三名女子身体分别受到不同程度的打击」
 [据路边的人证言，那几个女生好像是和凶手认识....]
-
 -> END
+
 //===============================BAD END 1=====================================
 
 
