@@ -2,6 +2,11 @@ INCLUDE chapter1.ink
 INCLUDE chapter2.ink
 INCLUDE chapter3.ink
 INCLUDE chapter4.ink
+INCLUDE chapter5.ink
+INCLUDE chapter6.ink
+INCLUDE chapter7.ink
+INCLUDE chapter8.ink
+INCLUDE chapter9.ink
 //TODO: 添加基础界面
 
 + [开始游戏]->start
