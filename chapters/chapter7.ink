@@ -1,4 +1,4 @@
-== chapter7 ==
+===Chapter7===
 Chapter7 - the coffee encounter
 
 上课铃响了。

@@ -1,4 +1,4 @@
-== chapter6 ==
+===Chapter6===
 Chapter6 - apology lunchbox
 
 不用担心哦，那些女生昨天已经忏悔了，今天见到你应该不会像以前那样了，应该是意识到自己的不对了。

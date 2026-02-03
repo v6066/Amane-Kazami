@@ -182,4 +182,6 @@ Chapter5 - the cost of companionship
 而灵体选择了依附于她，用另一种方式参与这个日常。
 
 这个想法让风见弥的动作顿了一下。
-->chapter6
+
+===Chapter6===
+->Chapter6
